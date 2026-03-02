@@ -34392,25 +34392,25 @@
     }
   },
   "translations": {
-    "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).": "Memory for 24/7 proactive agents like OpenClaw (MoltBot, ClawdBot).",
-    "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨": "Agentic IM chatbot infrastructure that integrates multiple IM platforms, LLMs, plugins, and AI features, serving as an alternative to OpenClaw. ✨",
-    "A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK": "A lightweight alternative to ClawdBot/OpenClaw that runs in containers for security, connects to WhatsApp, includes memory, scheduled tasks, and operates directly on Anthropic's Agents SDK.",
-    "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.": "Agent skills for Obsidian. Train your agent to use Markdown, databases, JSON Canvas, and command-line interfaces.",
-    "OpenClaw-RL: Personalize openclaw simply by talking to it": "OpenClaw-RL: Personalize OpenClaw simply by conversing with it.",
-    "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞": "Your personal AI assistant. Any OS. Any platform. The lobster way. 🦞",
-    "支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等": "Skill supporting automated posting, commenting, and retrieval on Xiaohongshu. Compatible with OpenClaw, Codex, CC, and others.",
-    "Skill Directory for OpenClaw": "Skill Directory for OpenClaw.",
-    "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails": "🏛️ Three Departments and Six Ministries System · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model configuration, and complete audit trails.",
-    "A community collection of OpenClaw use cases for making life easier.": "A community collection of OpenClaw use cases to simplify life.",
-    "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.": "A cross-platform desktop all-in-one assistant tool for Claude Code, Codex, OpenCode, and Gemini CLI.",
-    "Open-source Agent Operating System": "Open-source Agent Operating System.",
-    "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.": "您的个人AI助手；易于安装，可在自己的机器或云端部署；支持多种聊天应用，具备易于扩展的功能。",
-    "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"": "\"🐈 nanobot：超轻量级OpenClaw\"",
-    "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "程序员鱼皮的AI资源大全 + Vibe Coding零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新AI资讯、Prompt提示词大全、AI知识百科（RAG / MCP / A2A）、AI编程教程、AI工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI开发框架教程（Spring AI / LangChain）、AI产品变现指南，助您快速掌握AI技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮AI导航网站。",
-    "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.": "为您的AI团队打造的像素风格办公室：通过角色、每日笔记和访客代理，将无形的工作状态转化为温馨的小空间。代码基于MIT许可；艺术资产仅限非商业学习使用。",
-    "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig": "用Zig编写的最快、最小且完全自主的AI助手基础设施。",
-    "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞": "OpenClaw技能的精彩合集。从官方OpenClaw技能注册中心筛选并分类了5,400多项技能。🦞",
-    "The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor costs, and orchestrate workflows.": "用于AI智能体编排的开源仪表板。管理智能体集群、跟踪任务、监控成本并编排工作流程。"
+    "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK": "A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "Skill Directory for OpenClaw": "Skill Directory for OpenClaw",
+    "Open-source Agent Operating System": "Open-source Agent Operating System",
+    "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails": "🏛️ Three Departments and Six Ministries System · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+    "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+    "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+    "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+    "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
+    "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "Programmer Yupi's AI Resource Collection + Vibe Coding Beginner Tutorial, sharing large model selection guide (DeepSeek / GPT / Gemini / Claude), latest AI news, comprehensive Prompt library, AI knowledge base (RAG / MCP / A2A), AI programming tutorials, AI tool usage (Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills), AI development framework tutorials (Spring AI / LangChain), AI product monetization guide, helping you quickly master AI technology and stay at the forefront of the times. This project is the open-source documentation version, already upgraded to Yupi AI Navigation website.",
+    "支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等": "Supports Xiaohongshu automatic posting, automatic commenting, and automatic retrieval skills. Compatible with OpenClaw, Codex, CC, etc.",
+    "The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor costs, and orchestrate workflows.": "The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor costs, and orchestrate workflows.",
+    "OpenClaw-RL: Personalize openclaw simply by talking to it": "OpenClaw-RL: Personalize OpenClaw simply by talking to it.",
+    "A community collection of OpenClaw use cases for making life easier.": "A community collection of OpenClaw use cases for making life easier.",
+    "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry. 🦞",
+    "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.": "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
+    "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
   },
   "daily": {
     "2026-03-02": {
@@ -34775,11 +34775,11 @@
   "meta": {
     "created": "2026-03-02 12:51:50",
     "total_collected": 1486,
-    "last_updated": "2026-03-02 20:49:10"
+    "last_updated": "2026-03-02 20:57:07"
   },
   "translations_en": {
-    "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
-    "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
-    "支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等": "支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等"
+    "支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等": "A skill that supports automatic publishing, commenting, and retrieval on Xiaohongshu. Compatible with OpenClaw, Codex, CC, and more.",
+    "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails": "🏛️ Three Departments and Six Ministries System · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model configuration, and full audit trails.",
+    "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站": "Programmer Yupi's AI Resource Collection + Vibe Coding Beginner Tutorials, sharing a guide to selecting large models (DeepSeek / GPT / Gemini / Claude), the latest AI news, a comprehensive Prompt library, AI knowledge encyclopedia (RAG / MCP / A2A), AI programming tutorials, AI tool usage guides (Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills), AI development framework tutorials (Spring AI"
   }
 }

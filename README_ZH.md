@@ -30,25 +30,25 @@
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 245,743 | +1707 | Your personal AI assistant. Any OS. Any platform. ... |
-| 2 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 4,477 | +663 | 您的个人AI助手；易于安装，可在自己的机器或云端部署；支持多种聊天应用，具备易于扩展的功能。 |
-| 3 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 8,602 | +632 | Open-source Agent Operating System. |
-| 4 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 24,887 | +480 | OpenClaw技能的精彩合集。从官方OpenClaw技能注册中心筛选并分类了5,400多项技能。🦞 |
-| 5 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 15,340 | +415 | A community collection of OpenClaw use cases to si... |
-| 6 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 17,384 | +248 | A lightweight alternative to ClawdBot/OpenClaw tha... |
-| 7 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 27,595 | +212 | "🐈 nanobot：超轻量级OpenClaw" |
-| 8 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 22,520 | +208 | A cross-platform desktop all-in-one assistant tool... |
-| 9 | [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) | 1,087 | +177 | 为您的AI团队打造的像素风格办公室：通过角色、每日笔记和访客代理，将无形的工作状态转化为温馨的小空间... |
-| 10 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,299 | +149 | Memory for 24/7 proactive agents like OpenClaw (Mo... |
-| 11 | [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) | 4,270 | +121 | 用Zig编写的最快、最小且完全自主的AI助手基础设施。 |
-| 12 | [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) | 683 | +109 | 用于AI智能体编排的开源仪表板。管理智能体集群、跟踪任务、监控成本并编排工作流程。 |
-| 13 | [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 1,086 | +90 | Skill supporting automated posting, commenting, an... |
-| 14 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 3,526 | +89 | Skill Directory for OpenClaw. |
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 245,743 | +1707 | Your own personal AI assistant. Any OS. Any Platfo... |
+| 2 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 4,477 | +663 | Your Personal AI Assistant; easy to install, deplo... |
+| 3 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 8,602 | +632 | Open-source Agent Operating System |
+| 4 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 24,887 | +480 | The awesome collection of OpenClaw skills. 5,400+ ... |
+| 5 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 15,340 | +415 | A community collection of OpenClaw use cases for m... |
+| 6 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 17,384 | +248 | A lightweight alternative to Clawdbot / OpenClaw t... |
+| 7 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 27,595 | +212 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 8 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 22,520 | +208 | A cross-platform desktop All-in-One assistant tool... |
+| 9 | [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) | 1,087 | +177 | A pixel office for your AI crew: turn invisible wo... |
+| 10 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,299 | +149 | Memory for 24/7 proactive agents like openclaw (mo... |
+| 11 | [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) | 4,270 | +121 | Fastest, smallest, and fully autonomous AI assista... |
+| 12 | [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) | 683 | +109 | The open-source dashboard for AI agent orchestrati... |
+| 13 | [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 1,086 | +90 | Supports Xiaohongshu automatic posting, automatic ... |
+| 14 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 3,526 | +89 | Skill Directory for OpenClaw |
 | 15 | [cft0808/edict](https://github.com/cft0808/edict) | 237 | +84 | 🏛️ Three Departments and Six Ministries System · O... |
-| 16 | [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) | 535 | +61 | OpenClaw-RL: Personalize OpenClaw simply by conver... |
-| 17 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 11,837 | +58 | Agent skills for Obsidian. Train your agent to use... |
-| 18 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,634 | +55 | 程序员鱼皮的AI资源大全 + Vibe Coding零基础教程，分享大模型选择指南（DeepSeek... |
-| 19 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 18,560 | +54 | Agentic IM chatbot infrastructure that integrates ... |
+| 16 | [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) | 535 | +61 | OpenClaw-RL: Personalize OpenClaw simply by talkin... |
+| 17 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 11,837 | +58 | Agent skills for Obsidian. Teach your agent to use... |
+| 18 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,634 | +55 | Programmer Yupi's AI Resource Collection + Vibe Co... |
+| 19 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 18,560 | +54 | Agentic IM Chatbot infrastructure that integrates ... |
 | 20 | [miaoxworld/openclaw-manager](https://github.com/miaoxworld/openclaw-manager) | 510 | +54 |  |
 
 ---
@@ -319,4 +319,4 @@ git clone https://github.com/lllray/awesome-claw.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:49:10</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:57:07</sub></p>

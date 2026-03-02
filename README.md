@@ -42,12 +42,12 @@
 | 10 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,299 | +149 | Memory for 24/7 proactive agents like openclaw (moltbot, cla |
 | 11 | [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) | 4,270 | +121 | Fastest, smallest, and fully autonomous AI assistant infrast |
 | 12 | [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) | 683 | +109 | The open-source dashboard for AI agent orchestration. Manage |
-| 13 | [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 1,086 | +90 | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 |
+| 13 | [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 1,086 | +90 | A skill that supports automatic publishing, commenting, and  |
 | 14 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 3,526 | +89 | Skill Directory for OpenClaw |
-| 15 | [cft0808/edict](https://github.com/cft0808/edict) | 237 | +84 | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 spe |
+| 15 | [cft0808/edict](https://github.com/cft0808/edict) | 237 | +84 | 🏛️ Three Departments and Six Ministries System · OpenClaw Mu |
 | 16 | [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) | 535 | +61 | OpenClaw-RL: Personalize openclaw simply by talking to it |
 | 17 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 11,837 | +58 | Agent skills for Obsidian. Teach your agent to use Markdown, |
-| 18 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,634 | +55 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT  |
+| 18 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 8,634 | +55 | Programmer Yupi's AI Resource Collection + Vibe Coding Begin |
 | 19 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 18,560 | +54 | Agentic IM Chatbot infrastructure that integrates lots of IM |
 | 20 | [miaoxworld/openclaw-manager](https://github.com/miaoxworld/openclaw-manager) | 510 | +54 |  |
 
@@ -311,4 +311,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:49:10</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:57:07</sub></p>
