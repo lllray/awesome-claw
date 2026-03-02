@@ -1,11 +1,11 @@
 # Daily Report 2026-03-02
 - Repo: Awesome Claw
-- New today: 1474 | Total: 1474 | Stars: 1,541,624
+- New: 1486 | Total: 1486 | Stars: 1,549,563
 - Link: https://github.com/lllray/awesome-claw
 
-## Top 5 New
-1. [openclaw/openclaw](https://github.com/openclaw/openclaw) 244,036⭐ — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-2. [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) 87,401⭐ — ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | W
-3. [anthropics/skills](https://github.com/anthropics/skills) 80,521⭐ — Public repository for Agent Skills
-4. [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 55,251⭐ — The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-
-5. [tw93/Pake](https://github.com/tw93/Pake) 46,053⭐ — 🤱🏻 Turn any webpage into a desktop app with one command.
+## Top 5 Trending
+1. [openclaw/openclaw](https://github.com/openclaw/openclaw) +1707⭐ — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+2. [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) +663⭐ — Your Personal AI Assistant; easy to install, deploy on your own machine or on th
+3. [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) +632⭐ — Open-source Agent Operating System
+4. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +480⭐ — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
+5. [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) +415⭐ — A community collection of OpenClaw use cases for making life easier.
