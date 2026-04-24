@@ -4,7 +4,7 @@
 
 > Curated collection of OpenClaw, NanoClaw & *claw AI/Agent assistants — auto-collected from GitHub
 
-![Total](https://img.shields.io/badge/Total-2443-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-3415k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-9-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-04-23-orange?style=flat-square)
+![Total](https://img.shields.io/badge/Total-2449-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-3430k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-6-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-04-24-orange?style=flat-square)
 
 ---
 
@@ -18,48 +18,48 @@
 
 | Category | Count | Share |
 |----------|------:|------:|
-| 🦞 Claw Variants | 961 | █████████████ 39.3% |
-| 🖥️ Desktop AI Assistant | 285 | ███ 11.7% |
-| 🤖 Agent Assistant | 359 | ████ 14.7% |
-| 🔧 Tools & Skills | 356 | ████ 14.6% |
-| 📦 Others | 482 | ██████ 19.7% |
+| 🦞 Claw Variants | 964 | █████████████ 39.4% |
+| 🖥️ Desktop AI Assistant | 285 | ███ 11.6% |
+| 🤖 Agent Assistant | 360 | ████ 14.7% |
+| 🔧 Tools & Skills | 357 | ████ 14.6% |
+| 📦 Others | 483 | ██████ 19.7% |
 
 ---
 
-## 🔥 Daily Trending (2026-04-23)
+## 🔥 Daily Trending (2026-04-24)
 
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 112,290 | +2559 | The agent that grows with you |
-| 2 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 4,098 | +2021 | Use claude-code for free in the terminal, VSCode extension o |
-| 3 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 33,509 | +742 | AI coding assistant skill (Claude Code, Codex, OpenCode, Ope |
-| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 49,678 | +717 | A cross-platform desktop All-in-One assistant tool for Claud |
-| 5 | [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) | 704 | +593 | Desktop app to manage AI coding agent skills across Claude C |
-| 6 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 362,730 | +579 | Your own personal AI assistant. Any OS. Any Platform. The lo |
-| 7 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 10,657 | +497 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
-| 8 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 55,624 | +245 | The all-in-one Desktop & Docker AI application with built-in |
-| 9 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 9,099 | +240 | Privacy-first. MCP is the protocol for tool access. We're th |
-| 10 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 6,068 | +232 | AI 智能体专家团队（中文版）— 161 个专业 AI 智能体人设，支持 Claude Code / Copilot / |
-| 11 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 23,658 | +228 | AI agent skill that researches any topic across Reddit, X, Y |
-| 12 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 26,050 | +197 | Agent skills for Obsidian. Teach your agent to use Markdown, |
-| 13 | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | 1,702 | +162 | A desktop pet that reacts to your Claude Code sessions in re |
-| 14 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 22,912 | +151 | OpenViking is an open-source context database designed speci |
-| 15 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 40,627 | +139 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
-| 16 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 12,426 | +132 | 169 production-ready skills & plugins for Claude Code, OpenA |
-| 17 | [win4r/memory-lancedb-pro](https://github.com/win4r/memory-lancedb-pro) | 1,785 | +124 | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retriev |
-| 18 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 11,593 | +115 | Unofficial Python API and agentic skill for Google NotebookL |
-| 19 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 47,019 | +114 | The awesome collection of OpenClaw skills. 5,400+ skills fil |
-| 20 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 5,883 | +105 | Bridge local AI coding agents (Claude Code, Cursor, Gemini C |
+| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 6,705 | +2607 | Use claude-code for free in the terminal, VSCode extension o |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 114,456 | +2166 | The agent that grows with you |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 50,455 | +777 | A cross-platform desktop All-in-One assistant tool for Claud |
+| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 9,687 | +588 | Privacy-first. MCP is the protocol for tool access. We're th |
+| 5 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 34,064 | +555 | AI coding assistant skill (Claude Code, Codex, OpenCode, Ope |
+| 6 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 363,246 | +516 | Your own personal AI assistant. Any OS. Any Platform. The lo |
+| 7 | [google/agents-cli](https://github.com/google/agents-cli) | 873 | +458 | The CLI and skills that turn any coding assistant into an ex |
+| 8 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 11,061 | +404 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| 9 | [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) | 1,023 | +319 | Desktop app to manage AI coding agent skills across Claude C |
+| 10 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 55,624 | +245 | The all-in-one Desktop & Docker AI application with built-in |
+| 11 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 6,068 | +232 | AI 智能体专家团队（中文版）— 161 个专业 AI 智能体人设，支持 Claude Code / Copilot / |
+| 12 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 23,838 | +180 | AI agent skill that researches any topic across Reddit, X, Y |
+| 13 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 26,215 | +165 | Agent skills for Obsidian. Teach your agent to use Markdown, |
+| 14 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 27,868 | +160 | A lightweight alternative to Clawdbot / OpenClaw that runs i |
+| 15 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 7,418 | +138 | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only |
+| 16 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 12,556 | +130 | 169 production-ready skills & plugins for Claude Code, OpenA |
+| 17 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 40,753 | +126 | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| 18 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 6,007 | +124 | Bridge local AI coding agents (Claude Code, Cursor, Gemini C |
+| 19 | [win4r/memory-lancedb-pro](https://github.com/win4r/memory-lancedb-pro) | 1,785 | +124 | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retriev |
+| 20 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 44,262 | +113 | AI productivity studio with smart chat, autonomous agents, a |
 
 ---
 
 ## 📁 Categories
 
-- [🦞 Claw Variants](#claw-variants) (961)
+- [🦞 Claw Variants](#claw-variants) (964)
 - [🖥️ Desktop AI Assistant](#desktop-assistant) (285)
-- [🤖 Agent Assistant](#agent-assistant) (359)
-- [🔧 Tools & Skills](#tools-skills) (356)
-- [📦 Others](#other) (482)
+- [🤖 Agent Assistant](#agent-assistant) (360)
+- [🔧 Tools & Skills](#tools-skills) (357)
+- [📦 Others](#other) (483)
 
 ---
 
@@ -67,46 +67,46 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 362,730 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 112,290 | Python | The agent that grows with you |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 78,831 | Python | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG)  |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 47,019 | - | The awesome collection of OpenClaw skills. 5,400+ skills filtered and  |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 44,149 | TypeScript | AI productivity studio with smart chat, autonomous agents, and 300+ as |
-| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 43,652 | Python | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 363,246 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 114,456 | Python | The agent that grows with you |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 78,916 | Python | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG)  |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 47,093 | - | The awesome collection of OpenClaw skills. 5,400+ skills filtered and  |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 44,262 | TypeScript | AI productivity studio with smart chat, autonomous agents, and 300+ as |
+| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 43,685 | Python | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执 |
 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 42,968 | Python | CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同 |
-| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 42,924 | TypeScript | A privacy-first, self-hosted, fully open source personal knowledge man |
-| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 40,627 | Python | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 38,530 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waif |
-| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 35,128 | Go | 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one cl |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | 33,509 | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Tu |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 30,510 | Python | Agentic IM Chatbot infrastructure that integrates lots of IM platforms |
-| [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 30,509 | Rust | Fast, small, and fully autonomous AI assistant infrastructure — deploy |
-| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 30,109 | - | A community collection of OpenClaw use cases for making life easier. |
-| [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 27,708 | TypeScript | A lightweight alternative to Clawdbot / OpenClaw that runs in containe |
-| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 26,050 | - | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JS |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 23,658 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 22,912 | Python | OpenViking is an open-source context database designed specifically fo |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 22,447 | TypeScript | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI,  |
+| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 42,957 | TypeScript | A privacy-first, self-hosted, fully open source personal knowledge man |
+| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 40,753 | Python | "🐈 nanobot: The Ultra-Lightweight OpenClaw" |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 38,578 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waif |
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 35,145 | Go | 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one cl |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | 34,064 | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Tu |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 30,570 | Python | Agentic IM Chatbot infrastructure that integrates lots of IM platforms |
+| [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 30,569 | Rust | Fast, small, and fully autonomous AI assistant infrastructure — deploy |
+| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | 30,147 | - | A community collection of OpenClaw use cases for making life easier. |
+| [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 27,868 | TypeScript | A lightweight alternative to Clawdbot / OpenClaw that runs in containe |
+| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 26,215 | - | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JS |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 23,838 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 22,991 | Python | OpenViking is an open-source context database designed specifically fo |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 22,496 | TypeScript | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI,  |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 21,408 | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash yo |
-| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | 19,679 | TypeScript | NVIDIA plugin for secure installation of OpenClaw |
-| [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 19,416 | Python | Claude Code skill implementing Manus-style persistent markdown plannin |
+| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | 19,723 | TypeScript | NVIDIA plugin for secure installation of OpenClaw |
+| [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 19,518 | Python | Claude Code skill implementing Manus-style persistent markdown plannin |
 | [gavrielc/nanoclaw](https://github.com/qwibitai/nanoclaw) | 17,137 | TypeScript | A lightweight alternative to Clawdbot / OpenClaw that runs in containe |
-| [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 16,925 | Rust | Open-source Agent Operating System |
-| [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 16,241 | Go | IM Chat ChatGPT OpenClaw |
-| [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 15,858 | Python | Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发 |
-| [cft0808/edict](https://github.com/cft0808/edict) | 15,397 | Python | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized A |
-| [casdoor/casdoor](https://github.com/casdoor/casdoor) | 13,465 | Go | An open-source AI-first Identity and Access Management (IAM) /AI MCP & |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 13,409 | Python | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
-| [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 12,382 | JavaScript | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / |
-| [nearai/ironclaw](https://github.com/nearai/ironclaw) | 11,924 | Rust | IronClaw is OpenClaw inspired implementation in Rust focused on privac |
-| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 11,593 | Python | Unofficial Python API and agentic skill for Google NotebookLM. Full pr |
-| [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 11,561 | Python | Fully autonomous research from idea to paper. Chat an Idea. Get a Pape |
-| [getumbrel/umbrel](https://github.com/getumbrel/umbrel) | 11,047 | TypeScript | An elegant home server OS. Run OpenClaw, store your files and photos,  |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 10,657 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
-| [cloudflare/moltworker](https://github.com/cloudflare/moltworker) | 9,857 | TypeScript | Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Work |
-| [activeloopai/deeplake](https://github.com/activeloopai/deeplake) | 9,097 | C++ | Deeplake is a unified context engine for AI agents such as OpenClaw. B |
-| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 8,570 | Python | AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), ena |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 8,225 | TypeScript | Skill Directory for OpenClaw |
+| [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 16,976 | Rust | Open-source Agent Operating System |
+| [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 16,245 | Go | IM Chat ChatGPT OpenClaw |
+| [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | 15,865 | Python | Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发 |
+| [cft0808/edict](https://github.com/cft0808/edict) | 15,428 | Python | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized A |
+| [casdoor/casdoor](https://github.com/casdoor/casdoor) | 13,472 | Go | An open-source AI-first Identity and Access Management (IAM) /AI MCP & |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 13,424 | Python | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
+| [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 12,433 | JavaScript | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / |
+| [nearai/ironclaw](https://github.com/nearai/ironclaw) | 11,965 | Rust | IronClaw is OpenClaw inspired implementation in Rust focused on privac |
+| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 11,673 | Python | Unofficial Python API and agentic skill for Google NotebookLM. Full pr |
+| [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 11,595 | Python | Fully autonomous research from idea to paper. Chat an Idea. Get a Pape |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 11,061 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| [getumbrel/umbrel](https://github.com/getumbrel/umbrel) | 11,054 | TypeScript | An elegant home server OS. Run OpenClaw, store your files and photos,  |
+| [cloudflare/moltworker](https://github.com/cloudflare/moltworker) | 9,861 | TypeScript | Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Work |
+| [activeloopai/deeplake](https://github.com/activeloopai/deeplake) | 9,098 | C++ | Deeplake is a unified context engine for AI agents such as OpenClaw. B |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 8,649 | Python | AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), ena |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 8,244 | TypeScript | Skill Directory for OpenClaw |
 
 ---
 
@@ -114,43 +114,43 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [tw93/Pake](https://github.com/tw93/Pake) | 48,082 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command. |
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 18,606 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8 |
-| [leon-ai/leon](https://github.com/leon-ai/leon) | 17,178 | TypeScript | 🧠 Leon is your open-source personal assistant. |
-| [elie222/inbox-zero](https://github.com/elie222/inbox-zero) | 10,517 | TypeScript | The world's best AI personal assistant for email. Open source app to h |
-| [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 5,883 | Go | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) |
+| [tw93/Pake](https://github.com/tw93/Pake) | 48,114 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command. |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 18,638 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8 |
+| [leon-ai/leon](https://github.com/leon-ai/leon) | 17,180 | TypeScript | 🧠 Leon is your open-source personal assistant. |
+| [elie222/inbox-zero](https://github.com/elie222/inbox-zero) | 10,529 | TypeScript | The world's best AI personal assistant for email. Open source app to h |
+| [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 6,007 | Go | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) |
 | [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) | 5,461 | TypeScript | Playwright Model Context Protocol Server - Tool to automate Browsers a |
-| [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) | 4,007 | TypeScript | Local persistent memory store for LLM applications including claude de |
-| [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | 3,687 | Shell | Claude Desktop for Debian-based Linux distributions |
+| [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) | 4,012 | TypeScript | Local persistent memory store for LLM applications including claude de |
+| [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | 3,717 | Shell | Claude Desktop for Debian-based Linux distributions |
 | [campfirein/cipher](https://github.com/campfirein/cipher) | 3,634 | TypeScript | Byterover Cipher is an opensource memory layer specifically designed f |
-| [stravu/crystal](https://github.com/stravu/crystal) | 3,033 | TypeScript | (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessi |
+| [stravu/crystal](https://github.com/stravu/crystal) | 3,034 | TypeScript | (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessi |
 | [fossasia/susi_server](https://github.com/fossasia/susi_server) | 2,527 | Java | SUSI.AI server backend - the Artificial Intelligence server for person |
 | [sdi2200262/agentic-project-management](https://github.com/sdi2200262/agentic-project-management) | 2,137 | JavaScript | A framework for managing complex projects with structured multi-agent  |
 | [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) | 2,058 | TypeScript | Completely free, private, UI based Tech Documentation MCP server. Desi |
-| [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) | 1,783 | C++ | Enable AI assistant clients like Cursor, Windsurf and Claude Desktop t |
+| [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) | 1,791 | C++ | Enable AI assistant clients like Cursor, Windsurf and Claude Desktop t |
 | [ezyang/codemcp](https://github.com/ezyang/codemcp) | 1,614 | Python | Coding assistant MCP for Claude Desktop |
 | [smithery-ai/mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian) | 1,374 | JavaScript | A connector for Claude Desktop to read and search an Obsidian vault. |
-| [cubezhao/ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) | 1,131 | Vue | 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、Op |
+| [cubezhao/ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) | 1,134 | Vue | 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、Op |
 | [GongRzhe/Gmail-MCP-Server](https://github.com/GongRzhe/Gmail-MCP-Server) | 1,098 | JavaScript | A Model Context Protocol (MCP) server for Gmail integration in Claude  |
-| [skalesapp/skales](https://github.com/skalesapp/skales) | 838 | TypeScript | Free AI Desktop Agent for Windows & macOS - Automate email, calendar,  |
+| [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) | 1,023 | TypeScript | Desktop app to manage AI coding agent skills across Claude Code, Curso |
+| [skalesapp/skales](https://github.com/skalesapp/skales) | 840 | TypeScript | Free AI Desktop Agent for Windows & macOS - Automate email, calendar,  |
+| [Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp) | 755 | TypeScript | 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude D |
 | [manparvesh/yoda](https://github.com/manparvesh/yoda) | 751 | Python | Wise and powerful personal assistant, available in your nearest termin |
-| [Anarkh-Lee/universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp) | 750 | TypeScript | 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude D |
-| [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) | 704 | TypeScript | Desktop app to manage AI coding agent skills across Claude Code, Curso |
 | [infiolab/infio-copilot](https://github.com/infiolab/infio-copilot) | 663 | TypeScript | A Cursor-inspired AI assistant for Obsidian that offers smart autocomp |
 | [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp) | 633 | TypeScript | Talk to a Cloudflare Worker from Claude Desktop! |
 | [arinspunk/claude-talk-to-figma-mcp](https://github.com/arinspunk/claude-talk-to-figma-mcp) | 577 | TypeScript | A Model Context Protocol (MCP) that allows Claude Desktop and other AI |
-| [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) | 523 | Python | Enterprise-grade deep research skill for Claude Code with 8-phase pipe |
-| [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp) | 482 | TypeScript | The Ultimate Google Docs, Sheets & Drive MCP Server. Google Docs MCP i |
+| [199-biotechnologies/claude-deep-research-skill](https://github.com/199-biotechnologies/claude-deep-research-skill) | 530 | Python | Enterprise-grade deep research skill for Claude Code with 8-phase pipe |
+| [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp) | 483 | TypeScript | The Ultimate Google Docs, Sheets & Drive MCP Server. Google Docs MCP i |
 | [baryhuang/mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use) | 474 | Python | The only general AI agent that does NOT requires extra API key, giving |
-| [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing) | 465 | Python | Enterprise-grade AI marketing automation for Claude Code, Cursor, GitH |
-| [ghuntley/groundhog](https://github.com/ghuntley/groundhog) | 401 | Rust | Groundhog's primary purpose is to teach people how Cursor and all thes |
+| [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing) | 467 | Python | Enterprise-grade AI marketing automation for Claude Code, Cursor, GitH |
+| [ghuntley/groundhog](https://github.com/ghuntley/groundhog) | 400 | Rust | Groundhog's primary purpose is to teach people how Cursor and all thes |
 | [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) | 386 | TypeScript | MCP Server to Use HuggingFace spaces, easy configuration and Claude De |
 | [ironman5366/W.I.L.L](https://github.com/ironman5366/W.I.L.L) | 379 | Python | A python written personal assistant |
 | [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) | 363 | Rust | 🌍 Terraform Model Context Protocol (MCP) Tool - An experimental CLI to |
 | [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) | 347 | Nix | Nix Flake for Claude Desktop on Linux |
 | [nihal111/J.A.R.V.I.S](https://github.com/nihal111/J.A.R.V.I.S) | 320 | Python | A personal assistant with simple, rudimentary AI |
-| [ZYKJShadow/Async](https://github.com/ZYKJShadow/Async) | 302 | TypeScript | A native-feeling AI coding workspace that blends chat, planning, agent |
-| [Jacck/mcp-reasoner](https://github.com/Jacck/mcp-reasoner) | 276 | TypeScript | A systematic reasoning MCP server implementation for Claude Desktop wi |
+| [ZYKJShadow/Async](https://github.com/ZYKJShadow/Async) | 303 | TypeScript | A native-feeling AI coding workspace that blends chat, planning, agent |
+| [Jacck/mcp-reasoner](https://github.com/Jacck/mcp-reasoner) | 277 | TypeScript | A systematic reasoning MCP server implementation for Claude Desktop wi |
 | [adamyodinsky/TerminalGPT](https://github.com/adamyodinsky/TerminalGPT) | 267 | Python | TerminalGPT - Terminal-based ChatGPT personal assistant app. Provides  |
 | [chrlsio/agent-skills](https://github.com/chrlsio/agent-skills) | 251 | TypeScript | Lightweight, high-performance cross-platform desktop app to browse, sy |
 | [Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) | 243 | JavaScript | Accessibility review agents for Claude Code, GitHub Copilot, and Claud |
@@ -161,46 +161,46 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 87,772 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  |
-| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 34,211 | Python | Your AI second brain. Self-hostable. Get answers from the web or your  |
-| [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) | 17,210 | Python | Agent Zero AI framework |
-| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 15,843 | Python | Your Personal AI Assistant; easy to install, deploy on your own machin |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 87,787 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  |
+| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 34,229 | Python | Your AI second brain. Self-hostable. Get answers from the web or your  |
+| [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) | 17,242 | Python | Agent Zero AI framework |
+| [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) | 15,906 | Python | Your Personal AI Assistant; easy to install, deploy on your own machin |
 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 15,022 | Python | Your Personal AI Assistant; easy to install, deploy on your own machin |
-| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 11,126 | TypeScript | Generative UI SDK for React |
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 4,680 | Python | Speech To Speech: an effort for an open-sourced and modular GPT4-o |
-| [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) | 3,852 | HTML | ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection |
-| [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) | 3,736 | JavaScript | Open-source reporting platform to build and share live dashboards from |
-| [DevAgentForge/Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork) | 3,221 | TypeScript | OpenSource Claude Cowork. A desktop AI assistant that helps you with p |
-| [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | 3,035 | Python | An MCP server plus a CLI tool that indexes local code into a graph dat |
-| [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) | 2,658 | Jupyter Notebook | Learn to build your Second Brain AI assistant with LLMs, agents, RAG,  |
-| [aingdesk/AingDesk](https://github.com/aingdesk/AingDesk) | 2,485 | TypeScript | AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a s |
-| [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) | 1,945 | TypeScript | Witsy: desktop AI assistant / universal MCP client |
+| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 11,127 | TypeScript | Generative UI SDK for React |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 4,686 | Python | Speech To Speech: an effort for an open-sourced and modular GPT4-o |
+| [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) | 3,856 | HTML | ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection |
+| [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) | 3,737 | JavaScript | Open-source reporting platform to build and share live dashboards from |
+| [DevAgentForge/Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork) | 3,225 | TypeScript | OpenSource Claude Cowork. A desktop AI assistant that helps you with p |
+| [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | 3,040 | Python | An MCP server plus a CLI tool that indexes local code into a graph dat |
+| [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) | 2,660 | Jupyter Notebook | Learn to build your Second Brain AI assistant with LLMs, agents, RAG,  |
+| [aingdesk/AingDesk](https://github.com/aingdesk/AingDesk) | 2,487 | TypeScript | AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a s |
+| [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) | 1,947 | TypeScript | Witsy: desktop AI assistant / universal MCP client |
 | [nbonamy/witsy](https://github.com/nbonamy/witsy) | 1,927 | TypeScript | Witsy: desktop AI assistant / universal MCP client |
-| [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) | 1,848 | TypeScript | The Open Source Alternative to Cluely - A lightning-fast, privacy-firs |
-| [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) | 1,499 | Python | "Your Fully-Automated Personal AI Assistant" |
+| [iamsrikanthnani/pluely](https://github.com/iamsrikanthnani/pluely) | 1,851 | TypeScript | The Open Source Alternative to Cluely - A lightning-fast, privacy-firs |
+| [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) | 1,500 | Python | "Your Fully-Automated Personal AI Assistant" |
 | [jgravelle/AutoGroq](https://github.com/jgravelle/AutoGroq) | 1,499 | Python | AutoGroq is a groundbreaking tool that revolutionizes the way users in |
 | [neovateai/petercat](https://github.com/neovateai/petercat) | 1,493 | TypeScript | A conversational Q&A agent configuration system, self-hosted deploymen |
-| [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) | 1,097 | Rust | Local AI assistant, dreaming explorable worlds. |
-| [inkeep/agents](https://github.com/inkeep/agents) | 1,096 | TypeScript | Create AI Agents in a No-Code Visual Builder or TypeScript SDK with fu |
-| [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) | 1,061 | TypeScript | NativeMind: Your fully private, open-source, on-device AI assistant |
+| [inkeep/agents](https://github.com/inkeep/agents) | 1,101 | TypeScript | Create AI Agents in a No-Code Visual Builder or TypeScript SDK with fu |
+| [localgpt-app/localgpt](https://github.com/localgpt-app/localgpt) | 1,096 | Rust | Local AI assistant, dreaming explorable worlds. |
+| [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) | 1,063 | TypeScript | NativeMind: Your fully private, open-source, on-device AI assistant |
 | [RasaHQ/rasa-demo](https://github.com/RasaHQ/rasa-demo) | 992 | Python | :tiger: Sara - the Rasa Demo Bot: An example of a contextual AI assist |
-| [SterlingChin/marvin-template](https://github.com/SterlingChin/marvin-template) | 977 | Shell | MARVIN is your personal AI assistant that can help you connect to the  |
-| [omnimind-ai/OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot) | 879 | Kotlin | 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 || Your on-device AI assistan |
-| [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) | 851 | TypeScript | Local-first, open-source AI assistant for your data. Unify tasks, note |
+| [SterlingChin/marvin-template](https://github.com/SterlingChin/marvin-template) | 980 | Shell | MARVIN is your personal AI assistant that can help you connect to the  |
+| [omnimind-ai/OpenOmniBot](https://github.com/omnimind-ai/OpenOmniBot) | 918 | Kotlin | 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 || Your on-device AI assistan |
+| [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) | 854 | TypeScript | Local-first, open-source AI assistant for your data. Unify tasks, note |
 | [yorkeccak/finance](https://github.com/yorkeccak/finance) | 837 | TypeScript | The world's most powerful open-source financial AI assistant - Access  |
-| [rksm/org-ai](https://github.com/rksm/org-ai) | 815 | Emacs Lisp | Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA |
-| [openkursar/hello-halo](https://github.com/openkursar/hello-halo) | 800 | TypeScript | Open-source Claude Code GUI — like Claude Cowork. Visual AI assistant  |
-| [MarsWang42/OrbitOS](https://github.com/MarsWang42/OrbitOS) | 759 | - | An AI-powered personal productivity system where knowledge management  |
-| [rush86999/atom](https://github.com/rush86999/atom) | 735 | Python | Atom Agent, automate your workflows by talking to an AI — and let it r |
+| [rksm/org-ai](https://github.com/rksm/org-ai) | 816 | Emacs Lisp | Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA |
+| [openkursar/hello-halo](https://github.com/openkursar/hello-halo) | 799 | TypeScript | Open-source Claude Code GUI — like Claude Cowork. Visual AI assistant  |
+| [MarsWang42/OrbitOS](https://github.com/MarsWang42/OrbitOS) | 761 | - | An AI-powered personal productivity system where knowledge management  |
+| [rush86999/atom](https://github.com/rush86999/atom) | 736 | Python | Atom Agent, automate your workflows by talking to an AI — and let it r |
 | [disler/poc-realtime-ai-assistant](https://github.com/disler/poc-realtime-ai-assistant) | 719 | Python | Sharing early versions of Ada, a personal AI Assistant built on OpenAI |
 | [existence-master/Sentient](https://github.com/existence-master/Sentient) | 680 | Python | A personal AI assistant for everyone |
 | [codingmoh/open-codex](https://github.com/codingmoh/open-codex) | 678 | Python | Fully open-source command-line AI assistant inspired by OpenAI Codex,  |
 | [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) | 678 | TypeScript | Agent-native AI assistant — chat, write, search, orchestrate, all in o |
 | [Superflows-AI/superflows](https://github.com/Superflows-AI/superflows) | 620 | TypeScript | Open-source toolkit to build an AI copilot for SaaS products |
-| [SpharxTeam/AgentOS](https://github.com/SpharxTeam/AgentOS) | 558 | C | “Non-LangChain Wrapper” New CoreLoopThree architecture and MemoryRovol |
-| [Gentleman-Programming/Gentleman-Skills](https://github.com/Gentleman-Programming/Gentleman-Skills) | 467 | - | Community-driven AI agent skills for Claude Code, OpenCode, and other  |
-| [docsagent/docsagent](https://github.com/docsagent/docsagent) | 441 | TypeScript | DocsAgent is a local-first AI assistant that lets you securely index a |
-| [understudy-ai/understudy](https://github.com/understudy-ai/understudy) | 419 | TypeScript | An understudy watches. Then performs. |
+| [SpharxTeam/AgentOS](https://github.com/SpharxTeam/AgentOS) | 604 | C | “Non-LangChain Wrapper” New CoreLoopThree architecture and MemoryRovol |
+| [Gentleman-Programming/Gentleman-Skills](https://github.com/Gentleman-Programming/Gentleman-Skills) | 471 | - | Community-driven AI agent skills for Claude Code, OpenCode, and other  |
+| [docsagent/docsagent](https://github.com/docsagent/docsagent) | 461 | TypeScript | DocsAgent is a local-first AI assistant that lets you securely index a |
+| [understudy-ai/understudy](https://github.com/understudy-ai/understudy) | 420 | TypeScript | An understudy watches. Then performs. |
 
 ---
 
@@ -212,42 +212,42 @@
 | [anthropics/skills](https://github.com/anthropics/skills) | 80,521 | Python | Public repository for Agent Skills |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 69,601 | Python | 🙌 OpenHands: AI-Driven Development |
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 55,624 | JavaScript | The all-in-one Desktop & Docker AI application with built-in RAG, AI a |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 49,678 | TypeScript | A cross-platform desktop All-in-One assistant tool for Claude Code, Co |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 29,493 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI  |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 50,455 | TypeScript | A cross-platform desktop All-in-One assistant tool for Claude Code, Co |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 29,503 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI  |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | 21,377 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI a |
 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | 14,156 | TypeScript | Trigger.dev – build and deploy fully‑managed AI agents and workflows |
-| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 13,720 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Prod |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 12,426 | Python | 169 production-ready skills & plugins for Claude Code, OpenAI Codex, a |
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 11,255 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper li |
-| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 10,857 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer task |
+| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 13,729 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Prod |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 12,556 | Python | 169 production-ready skills & plugins for Claude Code, OpenAI Codex, a |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 11,279 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper li |
+| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 10,862 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer task |
 | [tanweai/pua](https://github.com/tanweai/pua) | 10,475 | TypeScript | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的sk |
-| [sigoden/aichat](https://github.com/sigoden/aichat) | 9,871 | Rust | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI  |
-| [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) | 9,796 | TypeScript | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 9,099 | JavaScript | Privacy-first. MCP is the protocol for tool access. We're the virtuali |
-| [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 8,797 | C# | Unity MCP acts as a bridge, allowing AI assistants (like Claude, Curso |
-| [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 7,280 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills fo |
-| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 6,152 | TypeScript | The world's first open-source multimodal creative assistant  This is a |
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 5,938 | TypeScript | This is MCP server for Claude that gives it terminal control, file sys |
-| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | 5,846 | C# | Context-aware AI assistant for your desktop. Ready to respond intellig |
-| [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 5,707 | TypeScript | 🐬DeepChat - A smart assistant that connects powerful AI to your person |
-| [mnfst/manifest](https://github.com/mnfst/manifest) | 5,564 | TypeScript | Smart LLM routing for OpenClaw. Cut Costs up to 70% |
-| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 5,177 | TypeScript | 5ire is a cross-platform desktop AI assistant, MCP client. It compatib |
-| [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) | 4,093 | Jupyter Notebook | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | 3,547 | Python | A full-stack AI Red Teaming platform securing AI ecosystems via OpenCl |
-| [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) | 3,032 | Python | AI agent microservice |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 3,020 | Python | World's first open-source, agentic video production system. 11 pipelin |
-| [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | 2,790 | TypeScript | A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins,  |
+| [sigoden/aichat](https://github.com/sigoden/aichat) | 9,881 | Rust | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI  |
+| [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) | 9,804 | TypeScript | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 9,687 | JavaScript | Privacy-first. MCP is the protocol for tool access. We're the virtuali |
+| [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 8,840 | C# | Unity MCP acts as a bridge, allowing AI assistants (like Claude, Curso |
+| [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 7,418 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills fo |
+| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 6,163 | TypeScript | The world's first open-source multimodal creative assistant  This is a |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 5,940 | TypeScript | This is MCP server for Claude that gives it terminal control, file sys |
+| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | 5,851 | C# | Context-aware AI assistant for your desktop. Ready to respond intellig |
+| [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 5,726 | TypeScript | 🐬DeepChat - A smart assistant that connects powerful AI to your person |
+| [mnfst/manifest](https://github.com/mnfst/manifest) | 5,614 | TypeScript | Smart LLM routing for OpenClaw. Cut Costs up to 70% |
+| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 5,179 | TypeScript | 5ire is a cross-platform desktop AI assistant, MCP client. It compatib |
+| [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) | 4,095 | Jupyter Notebook | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | 3,560 | Python | A full-stack AI Red Teaming platform securing AI ecosystems via OpenCl |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 3,069 | Python | World's first open-source, agentic video production system. 11 pipelin |
+| [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) | 3,033 | Python | AI agent microservice |
+| [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | 2,796 | TypeScript | A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins,  |
 | [steipete/Peekaboo](https://github.com/steipete/Peekaboo) | 2,488 | Swift | Peekaboo is a macOS CLI & optional MCP server that enables AI agents t |
-| [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 2,268 | JavaScript | AI-assisted TradingView chart analysis — connect Claude Code to your T |
-| [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) | 2,209 | Swift | The world's smartest system-wide grammar assistant; a better version o |
-| [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) | 2,145 | JavaScript | ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + IM  |
-| [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) | 2,142 | Python | Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistan |
-| [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 2,119 | Python | Advanced TradingView MCP Server for AI-powered market analysis. Real-t |
-| [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) | 1,741 | Python | Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude,  |
-| [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | 1,650 | Python | Open-source MCP server for LinkedIn. Give Claude and any MCP-compatibl |
-| [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 1,342 | Go | 🧑‍🎨 A collection of Golang agentic skills that works |
-| [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | 1,311 | Python | ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordinat |
-| [WordPress/agent-skills](https://github.com/WordPress/agent-skills) | 1,303 | JavaScript | Expert-level WordPress knowledge for AI coding assistants - blocks, th |
+| [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 2,296 | JavaScript | AI-assisted TradingView chart analysis — connect Claude Code to your T |
+| [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) | 2,210 | Swift | The world's smartest system-wide grammar assistant; a better version o |
+| [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) | 2,148 | JavaScript | ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + IM  |
+| [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) | 2,143 | Python | Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistan |
+| [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 2,140 | Python | Advanced TradingView MCP Server for AI-powered market analysis. Real-t |
+| [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) | 1,746 | Python | Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude,  |
+| [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | 1,657 | Python | Open-source MCP server for LinkedIn. Give Claude and any MCP-compatibl |
+| [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 1,358 | Go | 🧑‍🎨 A collection of Golang agentic skills that works |
+| [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | 1,312 | Python | ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordinat |
+| [WordPress/agent-skills](https://github.com/WordPress/agent-skills) | 1,311 | JavaScript | Expert-level WordPress knowledge for AI coding assistants - blocks, th |
 
 ---
 
@@ -258,43 +258,43 @@
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 60,230 | Shell | A complete AI agency at your fingertips - From frontend wizards to Red |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 50,786 | Python | Universal memory layer for AI Agents |
 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 40,409 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 30,393 | TypeScript | The Frontend for Agents & Generative UI. React + Angular |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 30,419 | TypeScript | The Frontend for Agents & Generative UI. React + Angular |
 | [getzep/graphiti](https://github.com/getzep/graphiti) | 24,118 | Python | Build Real-Time Knowledge Graphs for AI Agents |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 21,672 | Python | CLI-Anything: Making ALL Software Agent-Native |
-| [dzhng/deep-research](https://github.com/dzhng/deep-research) | 18,794 | TypeScript | An AI-powered research assistant that performs iterative, deep researc |
+| [dzhng/deep-research](https://github.com/dzhng/deep-research) | 18,805 | TypeScript | An AI-powered research assistant that performs iterative, deep researc |
 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 18,614 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libr |
-| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 18,581 | Python | open-source agentic AI data assistant for the next generation of AI +  |
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 17,847 | Python | Private AI platform for agents, assistants and enterprise search. Buil |
+| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 18,594 | Python | open-source agentic AI data assistant for the next generation of AI +  |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 17,849 | Python | Private AI platform for agents, assistants and enterprise search. Buil |
 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 14,983 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
-| [trycua/cua](https://github.com/trycua/cua) | 13,547 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, a |
-| [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 11,993 | Go | Your personal AI trading assistant. Any market. Any model. Pay with US |
-| [op7418/CodePilot](https://github.com/op7418/CodePilot) | 5,493 | TypeScript | A desktop GUI for Claude Code — chat, code, and manage projects visual |
-| [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) | 3,897 | Python | Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-us |
+| [trycua/cua](https://github.com/trycua/cua) | 13,831 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, a |
+| [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 12,016 | Go | Your personal AI trading assistant. Any market. Any model. Pay with US |
+| [op7418/CodePilot](https://github.com/op7418/CodePilot) | 5,531 | TypeScript | A desktop GUI for Claude Code — chat, code, and manage projects visual |
+| [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) | 3,901 | Python | Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-us |
 | [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) | 3,799 | Go | Claraverse is a opesource privacy focused ecosystem to replace ChatGPT |
-| [openchamber/openchamber](https://github.com/openchamber/openchamber) | 3,385 | TypeScript | Desktop and web interface for OpenCode AI agent |
-| [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) | 2,503 | Python | AI-powered penetration testing assistant using local LLM on linux (Par |
-| [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | 2,336 | - | Research into how agentic AI coding assistants work — reconstructed pr |
-| [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) | 2,230 | TypeScript | AI chat assistant for Obsidian with contextual awareness, smart writin |
+| [openchamber/openchamber](https://github.com/openchamber/openchamber) | 3,417 | TypeScript | Desktop and web interface for OpenCode AI agent |
+| [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) | 2,543 | Python | AI-powered penetration testing assistant using local LLM on linux (Par |
+| [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | 2,341 | - | Research into how agentic AI coding assistants work — reconstructed pr |
+| [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) | 2,231 | TypeScript | AI chat assistant for Obsidian with contextual awareness, smart writin |
 | [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) | 2,175 | TypeScript | (Supports DeepSeek R1) An AI-powered research assistant that performs  |
-| [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) | 1,972 | Python | AI computer use powered by open source LLMs and E2B Desktop Sandbox |
+| [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) | 1,977 | Python | AI computer use powered by open source LLMs and E2B Desktop Sandbox |
 | [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) | 1,742 | Python | An AutoGPT agent that controls Chrome on your desktop |
-| [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) | 1,695 | Python | DATAGEN: AI-driven multi-agent research assistant automating hypothesi |
+| [starpig1129/DATAGEN](https://github.com/starpig1129/DATAGEN) | 1,696 | Python | DATAGEN: AI-driven multi-agent research assistant automating hypothesi |
 | [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) | 1,524 | Python | Open Source Generative Process Automation (i.e. Generative RPA). AI-Fi |
 | [hexdocom/lemonai](https://github.com/hexdocom/lemonai) | 1,505 | JavaScript | Lemon AI is the first Full-stack Open-source Self-Evolving General AI  |
+| [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) | 1,283 | C++ | Reference and an example for the Bluetooth API for makers in Claude Co |
 | [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber) | 1,269 | TypeScript | Desktop and web interface for OpenCode AI agent |
 | [AgentAlphaAGI/Idea2Paper](https://github.com/AgentAlphaAGI/Idea2Paper) | 1,241 | Python | Idea2Paper Offical Demo |
-| [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy) | 1,201 | C++ | Reference and an example for the Bluetooth API for makers in Claude Co |
-| [morettt/my-neuro](https://github.com/morettt/my-neuro) | 1,187 | JavaScript | This project lets you create your own AI desktop companion with custom |
-| [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) | 1,124 | TypeScript | A desktop app that lets you use your AI subscriptions (Claude, ChatGPT |
-| [MiniMax-AI/OpenRoom](https://github.com/MiniMax-AI/OpenRoom) | 1,105 | TypeScript | A browser-based desktop where AI Agent operates every app through natu |
+| [morettt/my-neuro](https://github.com/morettt/my-neuro) | 1,188 | JavaScript | This project lets you create your own AI desktop companion with custom |
+| [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) | 1,128 | TypeScript | A desktop app that lets you use your AI subscriptions (Claude, ChatGPT |
+| [MiniMax-AI/OpenRoom](https://github.com/MiniMax-AI/OpenRoom) | 1,115 | TypeScript | A browser-based desktop where AI Agent operates every app through natu |
 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 817 | Python | AI-powered PC agent loop for desktop automation and intelligent task e |
-| [pocketpaw/pocketpaw](https://github.com/pocketpaw/pocketpaw) | 775 | Python | Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source pe |
-| [e2b-dev/surf](https://github.com/e2b-dev/surf) | 764 | TypeScript | Surf is a computer use AI agent powered by OpenAI that interacts with  |
+| [pocketpaw/pocketpaw](https://github.com/pocketpaw/pocketpaw) | 776 | Python | Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source pe |
+| [e2b-dev/surf](https://github.com/e2b-dev/surf) | 765 | TypeScript | Surf is a computer use AI agent powered by OpenAI that interacts with  |
 | [wesm/agentsview](https://github.com/wesm/agentsview) | 761 | Go | A local-first desktop and web application for browsing, searching, and |
-| [helixml/helix](https://github.com/helixml/helix) | 758 | Go | ♾️ Private Agent Swarm with Spec Coding. Each agent gets their own des |
-| [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) | 725 | TypeScript | 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说 |
+| [helixml/helix](https://github.com/helixml/helix) | 759 | Go | ♾️ Private Agent Swarm with Spec Coding. Each agent gets their own des |
+| [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) | 728 | TypeScript | 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说 |
 | [ITSpecialist111/ai_automation_suggester](https://github.com/ITSpecialist111/ai_automation_suggester) | 714 | Python | This custom Home Assistant integration automatically scans your entiti |
-| [gensyn-ai/codeassist](https://github.com/gensyn-ai/codeassist) | 699 | Python | A completely private and local AI coding assistant, developed by Gensy |
+| [happier-dev/happier](https://github.com/happier-dev/happier) | 700 | TypeScript | Mobile, Web & Desktop client for Codex, Claude Code, OpenCode, Kimi, A |
 
 ---
 
@@ -311,4 +311,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-04-23 20:32:28</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-04-24 20:27:55</sub></p>
