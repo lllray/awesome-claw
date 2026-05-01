@@ -1,0 +1,358 @@
+{
+  "date": "2026-05-01",
+  "total_skills": 2506,
+  "total_stars": 3534101,
+  "new_today": 6,
+  "top_gainers": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 127479,
+      "delta": 1385,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "stars": 56918,
+      "delta": 629,
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI."
+    },
+    {
+      "name": "safishamsi/graphify",
+      "stars": 39344,
+      "delta": 628,
+      "url": "https://github.com/safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "stars": 19470,
+      "delta": 595,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "stars": 366989,
+      "delta": 348,
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "stars": 27987,
+      "delta": 334,
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI."
+    },
+    {
+      "name": "siyuan-note/siyuan",
+      "stars": 43351,
+      "delta": 268,
+      "url": "https://github.com/siyuan-note/siyuan",
+      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+    },
+    {
+      "name": "Mintplex-Labs/anything-llm",
+      "stars": 55624,
+      "delta": 245,
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
+    },
+    {
+      "name": "jnMetaCode/agency-agents-zh",
+      "stars": 6068,
+      "delta": 232,
+      "url": "https://github.com/jnMetaCode/agency-agents-zh",
+      "description": "AI 智能体专家团队（中文版）— 161 个专业 AI 智能体人设，支持 Claude Code / Copilot / Cursor / OpenClaw 等 10 种工具 | Chinese community edition of agency-agents"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "stars": 11596,
+      "delta": 202,
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context."
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "stars": 23267,
+      "delta": 169,
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!"
+    },
+    {
+      "name": "garrytan/gbrain",
+      "stars": 12560,
+      "delta": 133,
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+    },
+    {
+      "name": "win4r/memory-lancedb-pro",
+      "stars": 1785,
+      "delta": 124,
+      "url": "https://github.com/win4r/memory-lancedb-pro",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "stars": 24483,
+      "delta": 118,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "trycua/cua",
+      "stars": 15457,
+      "delta": 114,
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows)."
+    },
+    {
+      "name": "higress-group/hiclaw",
+      "stars": 1116,
+      "delta": 97,
+      "url": "https://github.com/higress-group/hiclaw",
+      "description": "Open-source Agent Teams system with IM-based multi-Agent collaboration and human-in-the-loop oversight."
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "stars": 13362,
+      "delta": 96,
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace."
+    },
+    {
+      "name": "chenhg5/cc-connect",
+      "stars": 6929,
+      "delta": 80,
+      "url": "https://github.com/chenhg5/cc-connect",
+      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+    },
+    {
+      "name": "VoltAgent/awesome-openclaw-skills",
+      "stars": 47691,
+      "delta": 79,
+      "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+      "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞"
+    },
+    {
+      "name": "hesamsheikh/awesome-openclaw-usecases",
+      "stars": 30647,
+      "delta": 77,
+      "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+      "description": "A community collection of OpenClaw use cases for making life easier."
+    },
+    {
+      "name": "ValueCell-ai/ClawX",
+      "stars": 6947,
+      "delta": 76,
+      "url": "https://github.com/ValueCell-ai/ClawX",
+      "description": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. We’ve moved from clawx.dev to claw-x.com."
+    },
+    {
+      "name": "justlovemaki/OpenClaw-Docker-CN-IM",
+      "stars": 2852,
+      "delta": 73,
+      "url": "https://github.com/justlovemaki/OpenClaw-Docker-CN-IM",
+      "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关"
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "stars": 12250,
+      "delta": 65,
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw."
+    },
+    {
+      "name": "zjowowen/InnoClaw",
+      "stars": 119,
+      "delta": 65,
+      "url": "https://github.com/zjowowen/InnoClaw",
+      "description": "An AI research Agent for scientific innovation."
+    },
+    {
+      "name": "Narcooo/inkos",
+      "stars": 5260,
+      "delta": 64,
+      "url": "https://github.com/Narcooo/inkos",
+      "description": "Autonomous AI agent that writes, audits, and revises novels from CLI — 33-dimension continuity tracking, style cloning, de-AI-ification. OpenClaw skill."
+    },
+    {
+      "name": "jau123/MeiGen-AI-Design-MCP",
+      "stars": 899,
+      "delta": 63,
+      "url": "https://github.com/jau123/MeiGen-AI-Design-MCP",
+      "description": "MeiGen-AI-Design-MCP — Turn Claude Code / OpenClaw into your local Lovart. Local ComfyUI, 1,400+ prompt library, multi-direction parallel generation."
+    },
+    {
+      "name": "HKUDS/nanobot",
+      "stars": 41428,
+      "delta": 61,
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\""
+    },
+    {
+      "name": "czl9707/build-your-own-openclaw",
+      "stars": 1408,
+      "delta": 61,
+      "url": "https://github.com/czl9707/build-your-own-openclaw",
+      "description": "A step-by-step guide to build your own AI agent."
+    },
+    {
+      "name": "Claw-Company/clawcompany",
+      "stars": 525,
+      "delta": 61,
+      "url": "https://github.com/Claw-Company/clawcompany",
+      "description": "Build for OPC(One Person Company), Every human being is a chairman. Multiple roles, multiple agents, multiple suppliers. Your Claws company, one key to run them all."
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "stars": 31102,
+      "delta": 58,
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+    },
+    {
+      "name": "liyupi/ai-guide",
+      "stars": 12867,
+      "delta": 58,
+      "url": "https://github.com/liyupi/ai-guide",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "stars": 78972,
+      "delta": 56,
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
+    },
+    {
+      "name": "alibaba/hiclaw",
+      "stars": 3330,
+      "delta": 56,
+      "url": "https://github.com/alibaba/hiclaw",
+      "description": "Open-source Agent Teams system with IM-based multi-Agent collaboration and human-in-the-loop oversight."
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "stars": 2660,
+      "delta": 55,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the world's first and the best Office suite designed for AI agents.It is a free, open-source command-line tool for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Single binary, no Office installation required."
+    },
+    {
+      "name": "wanikua/boluobobo-ai-court-tutorial",
+      "stars": 1603,
+      "delta": 51,
+      "url": "https://github.com/wanikua/boluobobo-ai-court-tutorial",
+      "description": "AI 朝廷搭建完整教程 - 从零基础到进阶"
+    },
+    {
+      "name": "hAcKlyc/MyAgents",
+      "stars": 473,
+      "delta": 50,
+      "url": "https://github.com/hAcKlyc/MyAgents",
+      "description": "MyAgents - 桌面版通用Agent，让非开发者也能体会到来自 AI 智能的推背感，成就更好的自己。"
+    },
+    {
+      "name": "OthmanAdi/planning-with-files",
+      "stars": 20023,
+      "delta": 49,
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition."
+    },
+    {
+      "name": "google/agents-cli",
+      "stars": 1917,
+      "delta": 48,
+      "url": "https://github.com/google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud."
+    },
+    {
+      "name": "openkursar/hello-halo",
+      "stars": 1146,
+      "delta": 45,
+      "url": "https://github.com/openkursar/hello-halo",
+      "description": "Open-source Claude Code GUI — like Claude Cowork. Visual AI assistant with remote access, file management, and built-in AI browser."
+    },
+    {
+      "name": "openchamber/openchamber",
+      "stars": 3648,
+      "delta": 44,
+      "url": "https://github.com/openchamber/openchamber",
+      "description": "Desktop and web interface for OpenCode AI agent"
+    },
+    {
+      "name": "Thysrael/Horizon",
+      "stars": 1459,
+      "delta": 44,
+      "url": "https://github.com/Thysrael/Horizon",
+      "description": "Automated AI news aggregator & summarizer. Generates daily briefings in English & Chinese. | 全自动 AI 科技新闻聚合与摘要生成器。"
+    },
+    {
+      "name": "SpharxTeam/AgentOS",
+      "stars": 873,
+      "delta": 44,
+      "url": "https://github.com/SpharxTeam/AgentOS",
+      "description": "“Non-LangChain Wrapper” New CoreLoopThree architecture and MemoryRovol loading technology. It enables engineering-level task execution and maximizes token utilization efficiency. This new architecture outperforms mainstream industry frameworks by 2–5 times in terms of token efficiency."
+    },
+    {
+      "name": "qwibitai/nanoclaw",
+      "stars": 28453,
+      "delta": 43,
+      "url": "https://github.com/qwibitai/nanoclaw",
+      "description": "A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK"
+    },
+    {
+      "name": "0xSteph/pentest-ai-agents",
+      "stars": 750,
+      "delta": 43,
+      "url": "https://github.com/0xSteph/pentest-ai-agents",
+      "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+    },
+    {
+      "name": "thClaws/thClaws",
+      "stars": 678,
+      "delta": 43,
+      "url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design."
+    },
+    {
+      "name": "espressif/esp-claw",
+      "stars": 853,
+      "delta": 42,
+      "url": "https://github.com/espressif/esp-claw",
+      "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": 38842,
+      "delta": 41,
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "stars": 7860,
+      "delta": 41,
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent."
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "stars": 18951,
+      "delta": 39,
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you"
+    },
+    {
+      "name": "zeroclaw-labs/zeroclaw",
+      "stars": 30873,
+      "delta": 38,
+      "url": "https://github.com/zeroclaw-labs/zeroclaw",
+      "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
+    }
+  ]
+}
